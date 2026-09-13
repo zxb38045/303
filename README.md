@@ -6,7 +6,7 @@ Team: Lee Shei Hui, New Zhi Xuan, Valerie Chia Xin Hui
 
 Problem Statement: Stress & Workload Manager
 
-Video Presentation: [Unlisted Youtube Link] 
+Video Presentation: [[Unlisted Youtube Link](https://youtu.be/xn-LzHH724I)] 
 
 Presentation Slides:  https://canva.link/ttubz4chef0js6n
 
