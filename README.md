@@ -1,5 +1,3 @@
-<img width="686" height="401" alt="image" src="https://github.com/user-attachments/assets/207efb1b-eb59-4e8c-bd73-1d5f81f9c0c9" /># 303
-
 # MoodPulse by 303
 
 Team: Lee Shei Hui, New Zhi Xuan, Valerie Chia Xin Hui 
