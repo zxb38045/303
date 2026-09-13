@@ -1,4 +1,4 @@
-# 303
+<img width="686" height="401" alt="image" src="https://github.com/user-attachments/assets/207efb1b-eb59-4e8c-bd73-1d5f81f9c0c9" /># 303
 
 # MoodPulse by 303
 
@@ -61,9 +61,7 @@ You can embed images in markdown like so:
 Even if you disagreed with a piece of feedback, you can say so and explain why. You will not be penalised for doing something against a mentor’s advice, it will still count as engaging with it.
 
 # 3. Design & Prototype
-UI Prototype: [ Public Link ]
-Check that it opens in an incognito window. This can be a link to Figma, Canva, Netlify, Vercel or any other board where you showcase your UI. It can be clickable with hyperlinks or simply ordered screenshots.
-We recommend you embed or link 4–8 key screens as images, with a caption on each explaining the interaction
+UI Prototype: https://canva.link/06oj69w54owovr2
 
 # 4. What Makes It Different
 
