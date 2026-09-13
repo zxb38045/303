@@ -20,7 +20,7 @@ Our solution: Our app provides direct access to time management, task management
 
 2.1 Ideas We Considered
    
-Table of every distinct idea generated, with why each was kept or dropped, order it so that chosen ideas are listed first
+
 | Idea | Why it was dropped/kept |
 |------|-----|
 | To do list (chosen) | It was related to our theme to help manage workload | 
@@ -33,22 +33,9 @@ Table of every distinct idea generated, with why each was kept or dropped, order
 | Music library/background music | Other apps such as Spotify and Apple Music is already available to use, some users might prefer those apps too |
 
 2.2 Ideation Boards
-You can embed the images directly (recommended) or have links to your ideation board. Don’t feel forced to add as many diagrams as you can for “more marks”. The reviewers want to know how your team put your minds together to create your solution. It can be messy, with a lot of small dropped ideas. Add 1–2 lines under each explaining what it shows.
+
 ![User Interface](User-Interface.jpeg)
 
-IMPORTANT: You can express this in any way you like, including but not limited to:
-Mindmaps
-Problem trees
-Flowcharts
-User flows
-Crazy eights
-Affinity diagrams
-SCAMPER grids
-Fishbone diagrams
-5 Whys chains
-Any other scribbles :)
-You can embed images in markdown like so:
-![Mindmap](mindmap.png)
 
 2.3 Mentor Consultation
 | Date | Mentor | Feedback Received | What was changed |
@@ -56,7 +43,6 @@ You can embed images in markdown like so:
 | 3rd September | Zack Khong | Advised us to focus more on the health status feature of our app | Updated our health status function and focused on that more |
 
 
-Even if you disagreed with a piece of feedback, you can say so and explain why. You will not be penalised for doing something against a mentor’s advice, it will still count as engaging with it.
 
 # 3. Design & Prototype
 UI Prototype: https://canva.link/06oj69w54owovr2
