@@ -37,7 +37,6 @@ Table of every distinct idea generated, with why each was kept or dropped, order
 2.2 Ideation Boards
 You can embed the images directly (recommended) or have links to your ideation board. Don’t feel forced to add as many diagrams as you can for “more marks”. The reviewers want to know how your team put your minds together to create your solution. It can be messy, with a lot of small dropped ideas. Add 1–2 lines under each explaining what it shows.
 
-
 IMPORTANT: You can express this in any way you like, including but not limited to:
 Mindmaps
 Problem trees
